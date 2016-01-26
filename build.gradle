@@ -5,7 +5,7 @@ apply plugin: "signing"
 
 group = "net.isucon.bench"
 archivesBaseName = "isucon-bench"
-version = "0.1.0"
+version = "0.1.1"
 description = "Benchmark framework for Web applications, especially for ISUCON"
 
 //set build variables based on build type (release, continuous integration, development)
