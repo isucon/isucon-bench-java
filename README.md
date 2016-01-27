@@ -75,6 +75,7 @@ $ gradle clean && gradle uploadArchives
 
 * Write complete documents
 * Support non-keepalived connections
+* Support two or more HTTP endpoints
 * Support HTTP/2 requests
 * Support configurable timeouts per requests
 * Support counting requests/responses per URLs/Methods
